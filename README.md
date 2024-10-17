@@ -67,12 +67,3 @@ The client will:
 - Download the uploaded data and print it to the console.
 - List all available datasets on the server.
 
-## Conclusion
-
-This project provides a straightforward example of using Apache Arrow Flight for high-performance data transfer between a server and client. It can be extended to support more advanced features such as data querying, error handling, and authentication.
-
-Feel free to explore and modify the code to suit your needs!
-
---- 
-
-This README includes sections to describe the purpose, installation requirements, server and client functionalities, usage instructions, and an example of how to run the server and client. You can adapt it further to include any additional information or usage scenarios relevant to your project!
